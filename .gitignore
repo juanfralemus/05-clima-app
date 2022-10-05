@@ -1,7 +1,6 @@
 
-
 node_modules/
 
 # Base de datos ignorada
-db/database.json 
+/db/database.json 
 
